@@ -30,9 +30,9 @@ Welcome to **Edusity**, a fully responsive and modern educational website built 
 ## 📁 Project Structure
 edusity/
 ├── public/
-│ └── index.html
+ └── index.html
 ├── src/
-│ ├── assets/ # Images and icons
+├── assets/ # Images and icons
 │ ├── components/ # Reusable React components
 │ ├── App.js
 │ ├── index.js
