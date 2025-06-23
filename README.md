@@ -1,4 +1,4 @@
-# 🎓 Edusity – Modern Educational Website (React.js)
+# 🎓 Edusity – Modern Educational Website 
 
 Welcome to **Edusity**, a fully responsive and modern educational website built using **React.js**, **HTML**, and **CSS**. The website offers a clean and engaging user interface that reflects the design and functionality of a modern EdTech platform.
 
@@ -24,18 +24,3 @@ Welcome to **Edusity**, a fully responsive and modern educational website built 
 - 📥 Simple and elegant footer section
 - ⚡ Fast performance and quick loading
 - 🧩 Reusable components using React
-
----
-
-## 📁 Project Structure
-edusity/
-├── public/
- └── index.html
-├── src/
-├── assets/ # Images and icons
-│ ├── components/ # Reusable React components
-│ ├── App.js
-│ ├── index.js
-│ └── styles/ # CSS files
-├── package.json
-└── README.md
